@@ -180,6 +180,6 @@ p {
 
   .title-image {
     position: static;
-    transform: rotate(0);
+    transform: rotate(30deg);
   }
 }
